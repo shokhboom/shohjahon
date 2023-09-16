@@ -1,0 +1,2 @@
+# shohjahon
+Python fullstack developer
